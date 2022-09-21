@@ -2,7 +2,7 @@
 
 name: ContinuousDelivery
 env:
-  repo: "https://github.com/azizh05/artemis"
+  repo: "https://github.com/azizh05/artemis.git"
   app_version: "1.0.0"
   project_id: "nicqstbkxngsodjq"
   repo_region: "us-central1"
